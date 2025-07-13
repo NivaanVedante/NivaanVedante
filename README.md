@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Nivaan Vedante
+# 👋 hey, i’m nivaan vedante
 
 🎓 I’m a student of the International Baccalaureate Diploma Programme with a deep passion for Artificial Intelligence, Robotics, and Computer Science. I’ve completed over 90+ certifications from Harvard, Stanford, Google, Microsoft, and more, and I’ve built everything from robotic arms to interactive AI applications.
 
