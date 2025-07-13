@@ -45,7 +45,7 @@ Developed a human-like walking robot that mimics ankle, knee, and hip joint move
 - 🥇 National Rank 1 in Bebras Computing Challenge  
 - 🥇 Gold – HKICO International Olympiad (Python)  
 - 🥇 Multiple international science & math Olympiad awards  
-- 🏅 Trinity College London Grade 6 Piano (Distinction 97/100)  
+- 🏅 Trinity College London Grade 8 Piano Classical & Jazz (Distinction 90/100)  
 - 🧠 Dr. Abdul Kalam MM++ Mighty Mind Scholar  
 - 🥇 Crest Gold Award for Smart Robotic Arm
 
